@@ -1,0 +1,23 @@
+{
+  "name": "accord-watcher",
+  "version": "0.0.0",
+  "dependencies": {
+    "accord": "^0.12.0",
+    "fobject": "0.0.3",
+    "lodash": "^2.4.1",
+    "pathwatcher": "^2.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0",
+    "when": "^3.6.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "GPLv3",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  }
+}
